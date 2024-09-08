@@ -45,8 +45,10 @@ Newcomers to Canada, including recent immigrants, international students, and wo
 
 <img src="assets/readme_pics/log in to save.png" alt="Generated to-do list" width="300"/>
 
-- # To meet project requirements for Firebase and ensure the app runs smoothly during testing, please upload your .env file.
-  Development Log:
+\*\* To meet project requirements for Firebase and ensure the app runs smoothly during testing, please upload your .env file.
+
+==================================================================================================================================================
+Development Log:
 
 Iteration 1:
 Screens:
