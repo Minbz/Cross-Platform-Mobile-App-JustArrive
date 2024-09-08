@@ -24,24 +24,29 @@ Newcomers to Canada, including recent immigrants, international students, and wo
 
 ### Features Overview
 
-Tap desired topic to start on Home screen.
+#### Tap desired topic to start on Home screen.
+
 <img src="assets/readme_pics/home.png" alt="Home Screen" width="300"/>
 
-Select a specific item under each topic.
+#### Select a specific item under each topic.
+
 <img src="assets/readme_pics/2nd menu.png" alt="Topic Screen" width="300"/>
 
-Browse curated details for quick insights. Click the links for more in-depth information.
+#### Browse curated details for quick insights. Click the links for more in-depth information.
+
 <img src="assets/readme_pics/3rd menu.png" alt="Details Screen" width="300"/>
 
-If you're unsure where to start, answer a few simple questions and we'll generate a personalized to-do list with the essential information you need.
+#### If you're unsure where to start, answer a few simple questions and we'll generate a personalized to-do list with the essential information you need.
+
 <img src="assets/readme_pics/customize.png" alt="Auto-Generate a to-do list for you" width="300"/>
 <img src="assets/readme_pics/generate todo list.png" alt="Generated to-do list" width="300"/>
 
-To save your to-do list or bookmark content for future reference, you can register. Your data will be automatically saved for future logins.
+#### To save your to-do list or bookmark content for future reference, you can register. Your data will be automatically saved for future logins.
+
 <img src="assets/readme_pics/log in to save.png" alt="Generated to-do list" width="300"/>
 
-==================================================================================================================================================
-Development Log:
+- # To meet project requirements for Firebase and ensure the app runs smoothly during testing, please upload your .env file.
+  Development Log:
 
 Iteration 1:
 Screens:
